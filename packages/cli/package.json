@@ -52,7 +52,7 @@
     "@next/eslint-plugin-next": "^16.1.1",
     "@repo/data": "workspace:*",
     "@tanstack/eslint-plugin-query": "^5.91.2",
-    "@types/node": "^25.0.3",
+    "@types/node": "^25.1.0",
     "@typescript-eslint/eslint-plugin": "^8.52.0",
     "@typescript-eslint/parser": "^8.52.0",
     "eslint-config-prettier": "^10.1.8",
